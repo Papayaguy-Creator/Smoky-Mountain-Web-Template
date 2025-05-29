@@ -1,0 +1,54 @@
+🎬 DEMO SCRIPT FOR SMOKY MOUNTAINS BOOKING TEMPLATE 🎬
+
+Create a screen recording showing these features:
+
+1. HOMEPAGE HERO SECTION (0-10 seconds)
+   - Show the beautiful mountain background
+   - Highlight the faith-friendly messaging
+   - Demonstrate responsive design on mobile
+
+2. NAVIGATION & SMOOTH SCROLLING (10-15 seconds)  
+   - Click navigation links to show smooth scrolling
+   - Highlight services section with pricing
+   - Show professional testimonials
+
+3. BOOKING FORM DEMO (15-25 seconds)
+   - Fill out the booking form
+   - Select a service and date
+   - Show mobile-friendly form design
+   - Demonstrate email integration
+
+4. CHATBOT FUNCTIONALITY (25-40 seconds)
+   - Click the chat button in bottom right
+   - Type: "What services do you offer?"
+   - Show intelligent response with service details
+   - Type: "How much does it cost?"
+   - Show pricing response
+   - Type: "I need prayer for my family"
+   - Show compassionate prayer response
+
+5. PRAYER REQUEST SECTION (40-50 seconds)
+   - Scroll to prayer section
+   - Show the faith-friendly design
+   - Highlight confidentiality promise
+   - Demo the prayer form
+
+6. MOBILE RESPONSIVENESS (50-60 seconds)
+   - Show website on mobile device
+   - Demonstrate mobile chatbot
+   - Show mobile booking form
+   - Highlight touch-friendly design
+
+TEXT OVERLAYS TO ADD:
+- "Professional Faith-Friendly Design"
+- "Smart AI Chatbot Included"
+- "Mobile-Responsive Booking Forms" 
+- "Perfect for Smoky Mountains Businesses"
+- "Single HTML File - Easy Setup"
+- "Only $25 - Save Thousands vs Hiring Developer"
+
+MUSIC SUGGESTION:
+Uplifting, professional background music that reflects the peaceful mountain setting and Christian values.
+
+CALL TO ACTION:
+End with text: "Get Your Professional Website Today - Download Instantly!"
