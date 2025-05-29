@@ -1,0 +1,62 @@
+🏔️ QUICK SETUP GUIDE FOR SMOKY MOUNTAINS TEMPLATE 🏔️
+
+📁 WHAT YOU HAVE:
+- index.html (Your complete website)
+- README.md (Documentation)
+- This setup guide
+
+🚀 STEP 1: UPLOAD TO GITHUB
+1. Go to github.com and create account
+2. Click "New repository"
+3. Name: "smokies-booking-template" 
+4. Make it Public
+5. Upload your index.html file
+6. Go to Settings > Pages
+7. Enable Pages from main branch
+8. Get your live URL!
+
+🎨 STEP 2: CUSTOMIZE YOUR CONTENT
+Open index.html in any text editor and replace:
+
+🏢 BUSINESS INFO:
+- [Your Business Name] → Your actual name
+- [Your Email] → your@email.com  
+- [Your Phone] → (865) 555-0123
+- [Your Address] → Your street address
+
+🛍️ SERVICES:
+- [Service 1] → e.g., "Mountain Tours"
+- [Service 2] → e.g., "Cabin Rentals"
+- [Service 3] → e.g., "Faith Retreats"
+- [Price] → Your actual pricing
+
+📧 EMAIL SETUP:
+Find [YOUR_EMAIL_HERE] in the code (2 places) and replace with your email
+
+🌐 STEP 3: HOSTING OPTIONS
+FREE OPTIONS:
+• GitHub Pages (already done!)
+• Netlify (drag & drop your HTML file)
+• Vercel (free hosting)
+
+PAID OPTIONS:
+• Namecheap ($2.99/month)
+• Bluehost ($3.95/month)
+• GoDaddy (various plans)
+
+🤖 STEP 4: CHATBOT
+Works immediately with smart responses!
+Optional: Add OpenAI API key for AI responses
+
+✅ STEP 5: TEST EVERYTHING
+- Test booking form (opens email)
+- Test chatbot responses
+- Check mobile design
+- Verify all your info is correct
+
+🎯 YOU'RE DONE!
+Your professional website is now live and ready to bring in customers!
+
+Need help? The chatbot has 50+ pre-programmed responses and handles common customer questions automatically.
+
+God bless your business! 🙏
