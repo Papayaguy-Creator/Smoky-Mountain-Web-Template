@@ -28,7 +28,7 @@ class SmokiesTemplateTest(unittest.TestCase):
         # Check for Tailwind CSS
         self.assertIn('tailwindcss', self.html_content)
         # Check for Font Awesome
-        self.assertIn('fontawesome', self.html_content)
+        self.assertIn('font-awesome', self.html_content)
     
     def test_navigation_links(self):
         """Test that navigation links are present."""
