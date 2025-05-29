@@ -623,10 +623,18 @@ Your Website Prayer System
             // Show typing indicator
             showTyping();
             
-            // Get bot response
-            setTimeout(() => {
+            // Get bot response (try AI first, fallback to rule-based)
+            setTimeout(async () => {
                 hideTyping();
-                const response = getBotResponse(message);
+                let response;
+                
+                // Try AI response first, fallback to rule-based if API fails
+                if (OPENAI_API_KEY && OPENAI_API_KEY !== 'YOUR_OPENAI_API_KEY_HERE') {
+                    response = await getAIResponse(message);
+                } else {
+                    response = getRuleBasedResponse(message);
+                }
+                
                 addMessage(response, 'bot');
             }, 1000 + Math.random() * 1000);
         }
